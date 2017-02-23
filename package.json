@@ -22,7 +22,6 @@
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.0",
     "hubot-thesimpsons": "^1.1.5",
-    "hubot-voter": "file:///home/robin/WebstormProjects/voter",
     "hubot-wolfram-alpha": "git+https://github.com/fsInformatik/hubot-wolfram-alpha.git"
   },
   "engines": {
